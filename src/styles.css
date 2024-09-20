@@ -1,0 +1,14 @@
+.error {
+    background-color: #ff0000; /* Red */
+    color: #ffffff;
+  }
+  
+  .warning {
+    background-color: #ffa500; /* Orange */
+    color: #ffffff;
+  }
+  
+  .info {
+    background-color: #ffff00; /* Yellow */
+    color: #000000;
+  }
